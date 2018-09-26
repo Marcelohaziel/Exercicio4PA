@@ -1,0 +1,6 @@
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojResolveAssemblyReference.cache
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+I:\Programação e algoritmos\Exercicios while3\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
